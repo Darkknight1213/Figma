@@ -1,5 +1,7 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date: 24-05-2025
+## Name: Mohamed Riyaz Ahamed
+## Reg No: 212224240092
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
